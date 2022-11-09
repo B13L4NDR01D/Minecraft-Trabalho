@@ -1,0 +1,84 @@
+body {
+    background: #10740c;
+}
+
+#paragrafo5{
+    margin-top: 50px;
+    font-size: 25px;
+    border: #9c7319 solid 10px;
+    background-color: white;
+    margin-right: 52%;
+}
+
+#Minecraft {
+    width: 99%;
+    height: 360px;
+    border: 10px solid #9c7319;
+}
+
+#Minecraft2 {
+    width: 50%;
+    height: 310px;
+    border: 10px solid #9c7319;
+}
+
+#Carteira {
+    width: 50%;
+    height: 350px;
+    margin-top: 10px;
+    border: 10px solid #9c7319;
+}
+
+#Pergunta{
+    width: 50%;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 2px;
+    border: 10px solid #9c7319;
+}
+
+#paragrafo1{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#paragrafo2{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 740px;
+}
+
+#paragrafo3{
+    text-align: left;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    height: 50px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 30px;
+    height: 30px;
+}
+
+h3 {
+    text-align: left;
+    font-size: 30px;
+    margin-top: 110px;
+    margin-left: 950px;
+}
+
+h4 {
+    text-align: left;
+    font-size: 30px;
+    margin-top: 150px;
+}
+
+
+
